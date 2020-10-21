@@ -3,7 +3,7 @@ name: Update OWGR
 
 on:
   schedule:
-    - cron: '21 21 * * 1'
+    - cron: '0 7 * * 1'
 
 jobs:
   build:
